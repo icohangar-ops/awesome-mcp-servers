@@ -3044,3 +3044,14 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+### CodeHealth MCP
+
+[![MCP](https://img.shields.io/badge/MCP-Protocol-00C4B4)](https://modelcontextprotocol.io)
+
+AI-powered codebase health analysis as an MCP server. Detects dead code, circular dependencies, coupling issues, and architectural drift.
+
+`npm install -g codehealth-mcp`
+
+[GitHub](https://github.com/icohangar-ops/codehealth-mcp)
